@@ -57,7 +57,7 @@ hr {
 
 /*bg image*/
 .bg_image {
-  background-image: url("../images/banner2.jpg");
+  background-image: url("../images/main_bg.jpg");
   background-size: cover;
   background-position: center;
   height: 90vh;
